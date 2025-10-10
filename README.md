@@ -5,7 +5,7 @@
 ```bash
  ┣ 📂 business_data/              # 소상공인시장진흥공단_상가(상권)정보_데이터 (업로드x)
  ┣ 📂 data/                       # 원본 및 전처리 데이터
- ┣ 📂 docs/                       # 데이터분석 보고서
+ ┣ 📂 docs/                       # 데이터 분석 보고서
  ┣ 📂 img/                        # README 이미지
  ┣ ⚙️ .gitignore                   # Git 추적 제외 설정
  ┣ 📓 Art_EDA_Analysis_0.ipynb     # 미술관 시설 및 현황통계 데이터(EDA) 
