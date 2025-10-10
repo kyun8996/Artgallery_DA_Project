@@ -1,5 +1,5 @@
 # 1. 2025 문화 디지털혁신 및 데이터분석 공모전 
-### [📊 데이터 분석 보고서](./docs/Artgallery_DA.pdf)
+### [📊 데이터 분석 보고서.pdf](./docs/Artgallery_DA.pdf)
 
 ### 📂 Repository Structure
 ```bash
